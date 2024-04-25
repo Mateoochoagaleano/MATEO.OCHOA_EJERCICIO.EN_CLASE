@@ -67,7 +67,7 @@ while True:
     print('1. Agregar un nuevo lote')
     print('2. Mostrar lotes')
     print('3. Salir')
-    opcion = input('que quieres hacer bro: ')
+    opcion = input('Ingrese una opción: ')
 
     if opcion == '1':
         fnt_agregar()
